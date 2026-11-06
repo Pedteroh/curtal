@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-label="Criador de Currículo">
+  <rect width="512" height="512" rx="112" fill="#2443c4"/>
+  <path d="M158 92H318L364 138V386a18 18 0 0 1-18 18H158a18 18 0 0 1-18-18V110a18 18 0 0 1 18-18z" fill="#ffffff"/>
+  <path d="M318 92V120a18 18 0 0 0 18 18H364z" fill="#c9d3f7"/>
+  <circle cx="190" cy="170" r="24" fill="#2443c4"/>
+  <rect x="226" y="156" width="96" height="16" rx="8" fill="#2443c4"/>
+  <rect x="226" y="182" width="62" height="10" rx="5" fill="#8fa3ee"/>
+  <rect x="172" y="226" width="160" height="8" rx="4" fill="#2443c4"/>
+  <rect x="172" y="250" width="160" height="10" rx="5" fill="#d5dcf7"/>
+  <rect x="172" y="274" width="138" height="10" rx="5" fill="#d5dcf7"/>
+  <rect x="172" y="298" width="150" height="10" rx="5" fill="#d5dcf7"/>
+  <rect x="172" y="332" width="60" height="8" rx="4" fill="#2443c4"/>
+  <rect x="172" y="354" width="130" height="10" rx="5" fill="#d5dcf7"/>
+  <circle cx="372" cy="388" r="64" fill="#f5a524" stroke="#2443c4" stroke-width="14"/>
+  <path d="M342 390l22 22 40-46" fill="none" stroke="#ffffff" stroke-width="18" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>
